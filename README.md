@@ -39,16 +39,7 @@ Both **Sony** and **Samsung** are top-tier TV brands, but depending on your need
 
 ## 🏆 Expert Verdict
 
-> **Sony is slightly better overall** for those who prioritize **reference-quality picture and cinematic immersion**.  
-> **Samsung wins** in **gaming**, **HDR brightness**, and **value for money**.
+ **Sony is slightly better overall** for those who prioritize **reference-quality picture and cinematic immersion**.  
+ **Samsung wins** in **gaming**, **HDR brightness**, and **value for money**.
 
 ---
-
-### Need a Recommendation?
-
-Let me know your:
-- Room type (dark, bright, mixed)
-- Viewing priorities (movies, gaming, sports)
-- Budget range
-
-I'll recommend the **best 2025 model** for your exact use case.
