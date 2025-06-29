@@ -1,45 +1,104 @@
-# 📺 Sony vs Samsung TV — Expert Comparison
+# Expert Comparison: Sony vs LG vs Samsung TVs (2025)
 
-Both **Sony** and **Samsung** are top-tier TV brands, but depending on your needs, one may edge out the other. Here's a detailed breakdown from a technical and user-experience perspective.
-
----
-
-## 🔍 Feature-by-Feature Comparison
-
-| Feature / Category                  | **Sony**                                                                 | **Samsung**                                                 | **Winner**          |
-|------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------|---------------------|
-| **Panel Technology**               | OLED (via LG Display), Mini LED                                          | QD-OLED, Neo QLED                                            | **Samsung**         |
-| **Picture Quality**                | Best color accuracy, near-reference image via **Cognitive Processor XR** | Bright, vibrant colors, especially with QD-OLED              | **Sony**            |
-| **Brightness (HDR)**               | Very good, but lower peak brightness                                     | **Higher peak brightness**, ideal for HDR in bright rooms    | **Samsung**         |
-| **Color Accuracy (Out of the Box)**| **Excellent**, natural colors                                            | Often vivid, sometimes oversaturated                         | **Sony**            |
-| **Upscaling (HD to 4K/8K)**        | **XR Upscaling** – industry-leading                                      | Good, but not as refined                                     | **Sony**            |
-| **Smart TV OS**                    | Google TV – better app support, integrated Google ecosystem              | Tizen OS – fast UI, but fewer apps                           | **Sony**            |
-| **Gaming Features**                | HDMI 2.1, VRR, 4K 120Hz – **slightly slower response time**             | Same support – **lower input lag**, Game Hub integration     | **Samsung**         |
-| **Design & Build**                 | Premium, minimalist                                                      | Sleek and modern                                             | **Tie**             |
-| **Price (Same Tier Models)**       | Typically **higher price**                                               | Slightly more value per feature                              | **Samsung**         |
-| **Audio Quality (Built-in)**       | **Better soundstage**, Acoustic Surface (OLED models)                    | Good, but less immersive                                     | **Sony**            |
+An expert-level comparison of **Sony**, **LG**, and **Samsung** TVs — focused on display technology, gaming, smart features, and value for money.
 
 ---
 
-## 🎯 Conclusion: Which is Slightly Better?
+## 🔍 1. Display Technology
 
-### ✅ Best for **Movie Lovers / Picture Purists**:
-**Sony**  
-- Superior **image processing**  
-- Better **color accuracy**  
-- Smoother motion and cinematic feel
+| Feature         | Sony                          | LG                            | Samsung                          |
+|----------------|-------------------------------|-------------------------------|----------------------------------|
+| **Panel Type**  | OLED (via LG), QD-OLED (high) | OLED, QNED                    | QLED, Neo QLED, QD-OLED          |
+| **Tech Strength** | XR Cognitive Processing       | True OLED leader              | High brightness & anti-glare     |
+| **Black Levels** | Excellent                     | Perfect                       | Very good                        |
+| **Brightness**   | Moderate                      | Moderate                      | Very High                        |
 
-### ✅ Best for **Gamers / Bright Rooms / Value Seekers**:
-**Samsung**  
-- **Higher brightness**  
-- More **vibrant visuals**  
-- Better **gaming performance** and price-to-performance ratio
+**Verdict:**  
+- For **deep blacks & cinema**, LG and Sony OLED shine.  
+- For **brightness & daylight**, Samsung Neo QLED wins.
 
 ---
 
-## 🏆 Expert Verdict
+## 🎮 2. Gaming Performance
 
- **Sony is slightly better overall** for those who prioritize **reference-quality picture and cinematic immersion**.  
- **Samsung wins** in **gaming**, **HDR brightness**, and **value for money**.
+| Feature         | Sony                          | LG                            | Samsung                          |
+|----------------|-------------------------------|-------------------------------|----------------------------------|
+| **HDMI 2.1**    | Yes (higher-end)              | Yes (even mid-range OLEDs)    | Yes                              |
+| **VRR, ALLM**   | Yes                           | Excellent                     | Excellent                        |
+| **Game UI**     | Basic                         | Advanced                      | Game Bar with more control       |
+
+**Verdict:**  
+- **LG OLED** is ideal for serious gamers.  
+- **Samsung** also strong with advanced features.
+
+---
+
+## 🧠 3. Smart TV OS
+
+| Feature         | Sony (Google TV)              | LG (webOS)                    | Samsung (Tizen)                  |
+|----------------|-------------------------------|-------------------------------|----------------------------------|
+| **Speed**       | Fast                          | Snappy                        | Smooth                           |
+| **App Support** | Excellent (Google Play)       | Good                          | Good                             |
+| **Voice Assistants** | Google/Alexa             | ThinQ AI/Alexa                | Bixby/Alexa                      |
+| **UI/Ads**      | Minimal ads                   | Ads in UI                     | Ads in UI                        |
+
+**Verdict:**  
+- **Sony** wins for Google integration.  
+- **Samsung and LG** have good features but some UI ads.
+
+---
+
+## 🎨 4. Picture Quality
+
+| Feature         | Sony                          | LG                            | Samsung                          |
+|----------------|-------------------------------|-------------------------------|----------------------------------|
+| **Upscaling**   | Best-in-class                 | Good                          | Very good                        |
+| **Motion**      | Excellent                     | Very good                     | Good                             |
+| **Color Accuracy** | Natural, Cinematic         | Vivid                         | Punchy and Bright                |
+
+**Verdict:**  
+- **Sony** = Cinema-quality color and motion  
+- **Samsung** = Bright, vibrant for casual users
+
+---
+
+## 🏗️ 5. Build Quality & Design
+
+| Feature         | Sony                          | LG                            | Samsung                          |
+|----------------|-------------------------------|-------------------------------|----------------------------------|
+| **Design**      | Minimalist Premium            | Modern Sleek                  | Futuristic Slim                  |
+| **Durability**  | High                          | High                          | High                             |
+
+---
+
+## 💰 6. Pricing & Value
+
+| Brand     | Typical Price Range | Value for Money                  |
+|-----------|---------------------|----------------------------------|
+| **Sony**  | High                | Excellent quality, expensive     |
+| **LG**    | Mid to High         | Best OLED value                  |
+| **Samsung** | Mid to High       | Feature-rich QLED options        |
+
+---
+
+## 🧠 Summary: Brand Strengths
+
+| Brand    | Best For                                        |
+|----------|--------------------------------------------------|
+| **Sony** | Movie lovers, Google ecosystem, real color       |
+| **LG**   | OLED quality, gaming, price-performance ratio    |
+| **Samsung** | Bright rooms, vibrant displays, game mode    |
+
+---
+
+## ✅ Recommendation by Use Case
+
+| Use Case             | Best Choice                       |
+|----------------------|-----------------------------------|
+| Home Cinema          | Sony A95L / LG OLED C4 or G4      |
+| Gaming               | LG OLED C-series / Samsung QN90   |
+| Bright Room Viewing  | Samsung Neo QLED                  |
+| Budget OLED          | LG B4 / LG C3                     |
+| Google Smart Home    | Sony with Google TV               |
 
 ---
